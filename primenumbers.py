@@ -1,4 +1,4 @@
-# Python program to display all the prime numbers within an interval
+# Python program to display all the prime numbers within an interval.
 
 # change the values of lower and upper for a different result
 lower = 900
