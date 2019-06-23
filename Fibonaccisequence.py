@@ -1,6 +1,6 @@
 # Program to display the Fibonacci sequence up to n-th term where n is provided by the user
 
-# change this value for a different result
+# change this value for a different results.
 nterms = 10
 
 # uncomment to take input from the user
