@@ -5,5 +5,6 @@ node ("linux-slave"){
   
   stage('Test') {
             sh '/usr/bin/python3 Fibonaccisequence.py'
+            sh '/usr/bin/python3 addtwonumbers.py'
         }
 }
