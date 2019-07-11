@@ -1,4 +1,4 @@
-node (linux-slave){
+node ("linux-slave"){
   stage("Git Checkout"){
     checkout(scm)
   }
